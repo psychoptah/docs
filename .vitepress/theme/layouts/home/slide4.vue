@@ -84,9 +84,9 @@ const { frontmatter } = useData()
         display: flex;
         align-items: center;
         justify-content: flex-start;
-        width: 500px;
-        gap: 0 5rem;
-        padding-left: 100px;
+        width: 100%;
+        gap: 0 3rem;
+        padding-left: 25%;
       }
     }
 
